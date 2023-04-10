@@ -1,11 +1,15 @@
 # zzen9203PCPz5457624
 UNSW ZZEN9203 Personal Challenge Project of Craig Smith
+
 Brief
+
 For this Personal Challenge Project I want to be able to produce an actual deliverable in the form of a website that will highlight my key takeaways from what I learnt in the week. But, I also want to keep going with some extracurricular work in the form of online learning.
 In order to be able to produce my website I will first need to brush up on my HTML, CSS and JavaScript as well as learning GitHub. For this I intend to use the free courses supplied my Udacity.com and Pluralsight to learn and begin creating the layout of my website.
 To compliment what we learn each week in the course I aim to study with Pluralsight the Systems Security Certified Practitioner (SSCP) certification path. The aim for these is not to study for the exam but learn how industry is applying security principles in order to prepare individuals for the cyber security workforce. Certification exams can come later depending on how well I am completing my course workload and personal challenge work over the next six weeks.
+
 Where time permits I will include my notes on the web page, in relevant sections, in the form of GoodNotes pages similar to what I have done in my RSA: How it Works post. But hopefully in a more consumable form that is more infographic and less word heavy.
 Successful completion to me is the delivery of a functional webpage hosted on Git. Unsuccessful delivery will include reflections on deliverables at the time of submission and where I think I could have done more.
+
 The Schedule
 Week 1
 •	Study and Complete the 'Intro to HTML and CSS' course on Udacity,
